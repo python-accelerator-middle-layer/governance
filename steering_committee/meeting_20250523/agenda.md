@@ -9,3 +9,5 @@ Agenda:
 - Specification documents
 
 - Roles on Github: maybe we need to go through the list of the current members and modify roles so not everyone has full permissions to all repositories anymore but only to the parts that they should be allowed to modify based on their role according to the governance document?
+
+- Level of bluesky integration
