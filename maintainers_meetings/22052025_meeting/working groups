@@ -1,0 +1,25 @@
+## 🧩 Initial Working Group Suggestions
+
+Please feel free to add your suggestions below or propose changes via email.
+
+### 1. Analysis
+- High-level analysis for applications such as BBA (Beam-Based Alignment) and LOCO (Linear Optics from Closed Orbits)
+- Development of analysis applications (e.g., LOCO, BBA, etc.)
+
+### 2. Measurement
+- Simulated commissioning setups
+- Execution of measurements in real or test environments
+
+### 3. Mathematical Libraries
+- Development and maintenance of shared mathematical libraries used in analysis and measurement
+
+### 4. Architecture
+- System architecture and dependency separation (e.g., ensuring clear separation and modularity based on control system requirements)
+
+### 5. Testing
+- Testing of developed components at your own facilities
+- Collecting user feedback (e.g., usability, setup challenges, execution experience)
+
+### 6. CI/CD & Integration
+- Setting up and maintaining continuous integration / continuous deployment pipelines
+- Ensuring automated testing and deployment practices are in place
