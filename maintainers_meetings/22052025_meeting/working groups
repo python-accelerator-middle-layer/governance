@@ -23,3 +23,27 @@ Please feel free to add your suggestions below or propose changes via email.
 ### 6. CI/CD & Integration
 - Setting up and maintaining continuous integration / continuous deployment pipelines
 - Ensuring automated testing and deployment practices are in place
+
+
+## COST Action Working Groups (For reference)
+
+### 1. Inclusion, YRI engagement, inter-disciplinary innovation, impact and dissemination
+#### Task 1.1: Involvement and co-design by YRIs
+#### Task 1.2: Training Schools Annual Meetings
+#### Task 1.3: Dissemination
+#### Task 1.4: promote collaborative funding applications
+
+### 2. Middle Layer, calibrations and digital twin, CI/CD
+#### Task 2.1: development and updates to the main core of the PyAML software libraries, CI/CD
+#### Task 2.2: calibrations
+#### Task 2.3: digital twin (virtual accelerator)
+
+### 3. Tuning tools and commissioning simulations
+#### Task 3.1: tuning tools
+#### Task 3.2: sequencing and commissioning-simulation mode
+
+### 4. Operational aspects
+#### Task 4.1: code tests in different labs
+#### Task 4.2: user interfaces
+#### Task 4.3: data formats/metadata/archiving
+#### Task 4.4: slow and fast feedbacks
