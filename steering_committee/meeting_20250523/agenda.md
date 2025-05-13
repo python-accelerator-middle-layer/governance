@@ -1,5 +1,7 @@
 Agenda:
 
+- Approve minutes from last meeting
+
 - Report from maintainers meeting
 
 - Working groups and working group leaders
@@ -13,5 +15,9 @@ Agenda:
 - Specification documents
 
 - Level of bluesky integration
+
+- Next meeting time
+
+- Approve minutes from this meeting
 
 
