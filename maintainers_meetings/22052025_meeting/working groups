@@ -24,6 +24,11 @@ Please feel free to add your suggestions below or propose changes via email.
 - Setting up and maintaining continuous integration / continuous deployment pipelines
 - Ensuring automated testing and deployment practices are in place
 
+## Things that should to be covered by some group:
+- GUIs
+- Bluesky compatibility (possibility for this for the labs who want it)
+- Running applications as a service (e.g. slow orbit feedback might require this option)
+
 
 ## COST Action Working Groups (For reference)
 
