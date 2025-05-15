@@ -14,6 +14,8 @@ Agenda:
   
   Maybe we need to go through the list of the current members and modify roles so not everyone has full permissions to all repositories anymore but only to the parts that they should be allowed to modify based on their role according to the governance document?
 
+  Suggestions for github roles, see [github_roles.md](github_roles.md)
+
 - pyAML license
 
 - Specification documents
