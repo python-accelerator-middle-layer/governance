@@ -8,7 +8,7 @@ Agenda:
 
 - Appointment of maintainers
 
-  According to the governance document we need to officially appoint the maintainers.
+  According to the governance document we need to officially appoint the maintainers. For list of people to elect, see [maintainers_to_elect.md](maintainers_to_elect.md)
 
 - Roles on Github
   
