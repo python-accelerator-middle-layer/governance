@@ -2,6 +2,10 @@ Agenda:
 
 - Approve minutes from last meeting
 
+- Support letter for accMeta
+
+  HZB and KIT are applying to the Helmholtz Metadata Collaboration Call. The project concerns developing a common metadata standard for accelerators, towards a future ontology. No funding or resources are required from pyAML but they are asking for a support letter for the application. Deadline is 30 May 2025.
+
 - Report from maintainers meeting
 
 - Working groups and working group leaders
@@ -23,6 +27,8 @@ Agenda:
 - Level of bluesky integration
 
 - Next meeting time
+
+  Next meeting is planned to 20 June 2025 11.00-12.00 CEST.
 
 - Approve minutes from this meeting
 
