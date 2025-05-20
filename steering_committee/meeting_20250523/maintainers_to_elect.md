@@ -5,3 +5,4 @@ List of maintainers that have confirmed they want to be elected (work in progres
 - Vadim Gubaidulin
 - Hasan Sansar
 - Asım Soylu
+- Teresia Olsson
