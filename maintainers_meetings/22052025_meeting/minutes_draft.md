@@ -125,6 +125,6 @@ their general python training skills.
 
 As distributed up front to the meeting
 
-* work packages :
-* originally communicated agenda:
+* work packages: https://github.com/python-accelerator-middle-layer/governance/blob/f2275a11681de7120cb39f737e7e8534fa9ea41c/maintainers_meetings/22052025_meeting/working_groups_collection.md
+* originally communicated agenda: https://github.com/python-accelerator-middle-layer/governance/blob/f2275a11681de7120cb39f737e7e8534fa9ea41c/maintainers_meetings/22052025_meeting/agenda.md
 
