@@ -1,7 +1,8 @@
-List of maintainers that have confirmed they want to be elected (work in progress...):
+List of maintainers that have confirmed they want to be elected:
 
 - Yoshiteru Hidaka
 - Konstantinous Paraschou
+- Martin Gaughran
 - Simone Liuzzo
 - Jean-Luc Pons
 - Teresia Olsson
