@@ -121,6 +121,7 @@ their general python training skills.
 * email mailing list as standard tool
 * mattermost as chat channel for e.g. fast exchange for helping colleagues etc
 
+
 ## AoB
 
 * provide agenda and zoom link on 
