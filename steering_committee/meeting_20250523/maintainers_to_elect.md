@@ -9,6 +9,7 @@ List of maintainers that have confirmed they want to be elected:
 - Teresia Olsson
 - Pierre Schnizer
 - Waheedullah Sulaiman Khail
+- Julian Gethmann
 - Asım Soylu
 - Hasan Sansar
 - Alexis Gamelin
