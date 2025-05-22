@@ -52,6 +52,7 @@ conclusion was drawn.
   intended contribution
 * Proposal for work packages coordinators,
   coordinator and secretary
+* Maintainers communication
 
 ## Work packages
 
@@ -114,6 +115,11 @@ their general python training skills.
 | Stephen Molloy              | Testing |                |                               |
 | Rutger Nieuwenhuis          | Testing |                |                               |
 | Ali Al-Sakeeri              | Testing |                |                               |
+
+## Communication
+
+* email mailing list as standard tool
+* mattermost as chat channel for e.g. fast exchange for helping colleagues etc
 
 ## AoB
 
