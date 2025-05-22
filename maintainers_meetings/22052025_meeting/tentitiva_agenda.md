@@ -18,6 +18,7 @@
    Focus on the two identified use cases in our last workshop.  
    _Proposal:_ Organize a "code week" before the summer holidays, 
    where all assigned developers to this working group gather in one lab for intensive core development.
+
 5. ** Communication Channel (mattermost, old school email, slack, ...)
 
 Feel free to add to the agenda. 
