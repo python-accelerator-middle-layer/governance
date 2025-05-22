@@ -1,3 +1,8 @@
+---
+header-includes:
+    - \hypersetup{colorlinks=true}
+---
+
 # 1. Maintainers meeting
 
 * Date: 5th of May 2025
@@ -13,7 +18,7 @@
  Patrick Schreiber,
  Julian Gethmann,
  Edmund Blomley,
- Thorsten Hellert (PARTLY),
+ Thorsten Hellert (partly),
  Hasan Sansar,
  Alexis Gamelin,
  Alexandre Moutardier,
@@ -40,11 +45,11 @@ conclusion was drawn.
 
 ## Agenda
 
-* Dicussion on work packages
+* Discussion on work packages
 * Discussion on coordinator and work packages
   rolls
 * Maintainers introduction short round and their
-  intented contribution
+  intended contribution
 * Proposal for work packages coordinators,
   coordinator and secretary
 
@@ -66,8 +71,8 @@ Therefore, two main packages were drafted.
      test the code run it against either twins or real world machine,
      share their experience on using the code
 
-It was dedicded to use only pyAT as tracking engine for the demonstrator.
-On the long run different back engines should be useble.
+It was decided to use only pyAT as tracking engine for the demonstrator.
+On the long run different back engines should be usable.
 
 Proposal were made to look into offering dedicated training
 for colleagues that are interesting to improve
@@ -127,4 +132,3 @@ As distributed up front to the meeting
 
 * work packages: https://github.com/python-accelerator-middle-layer/governance/blob/f2275a11681de7120cb39f737e7e8534fa9ea41c/maintainers_meetings/22052025_meeting/working_groups_collection.md
 * originally communicated agenda: https://github.com/python-accelerator-middle-layer/governance/blob/f2275a11681de7120cb39f737e7e8534fa9ea41c/maintainers_meetings/22052025_meeting/agenda.md
-
