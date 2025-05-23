@@ -120,21 +120,25 @@ their general python training skills.
 
 * email mailing list as standard tool
 * mattermost as chat channel for e.g. fast exchange for helping colleagues etc
+https://mattermost.hzdr.de/signup_user_complete/?id=cdcea9p8hfr3ic8jdrrydzxxpy&md=link&sbr=su
 
 
 ## AoB
 
-* provide agenda and zoom link on 
+* provide agenda and zoom link on
   github page
 
 ## Abbreviations
 
 | Abbr | full name               |
-| :----|:------------------------|
+|:-----|:------------------------|
+| CI   | Continuous integration  |
+| CD   | Continuous delivery     |
+| CS   | computer scientist      |
+| DEV  | development             |
+| OP   | operation               |
 | SC   | simulated commissioning |
-| CS   | computer scientist |
-| DEV   |development  |
-| OP   |operation  |
+
 
 ## Documents
 
