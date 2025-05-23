@@ -45,8 +45,8 @@ Pierre Schnizer - HZB (For points about accMeta and Report from Maintainers Meet
 - A fast feedback loop between core team and testing team is needed.
 - The following role proposals were discussed and accepted:
 - Coordinator: Waheedullah Sulaiman Khail
-- WP Core: Jean-Luc Pons
-- WP Testing:  Vadim Gubaidulin
+- WG Core: Jean-Luc Pons
+- WG Testing:  Vadim Gubaidulin
 - Secretary: Pierre Schnizer
 
     - *Action needed by Maintainers: A short description of the roles should be provided by the proposed people. The Steering committee will review them.* 
