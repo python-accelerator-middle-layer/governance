@@ -25,6 +25,6 @@ Agenda:
 
   Suggested date: Thursday 4 September 2025
 
-- Next meeting time
+- Next meeting time:
 
   Next meeting is planned to 18 July 2025 11.00-12.00 CEST.
