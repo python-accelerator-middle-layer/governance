@@ -12,6 +12,7 @@ Agenda:
 
 - Next workshop at SOLEIL:
 
+  - Dates
   - Funding
   - Content
   - Options for hybrid participation (e.g. is it possible to use Zoom events?)
@@ -19,6 +20,10 @@ Agenda:
 - Training:
 
   At the last workshop a preliminary list of required training was put together. How do we proceed with this?
+
+- Date for next community zoom meeting:
+
+  Suggested date: Thursday 4 September 2025
 
 - Next meeting time
 
