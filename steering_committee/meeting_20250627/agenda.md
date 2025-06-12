@@ -2,26 +2,30 @@ Agenda:
 
 - Approve minutes from last meeting
 
-- Report from maintainers:
+- Report from maintainers (TBD):
 
   Role and working group descriptions. What are their plans to do next.
 
-- Approval process for specification:
+- Relation between pyAML and Accelerator toolbox (Simon):
+
+  Jean-Luc says there are features in pyAT that might be needed in the core and wants input on if the core should be allowed to import accelerator toolbox or not.
+
+- Approval process for specification (Teresia):
 
   We should discuss the process for approving the specification documents. Who needs to do it? When?
 
-- Next workshop at SOLEIL:
+- Next workshop at SOLEIL (Laurent & Teresia):
 
   - Dates
   - Funding
   - Content
   - Options for hybrid participation (e.g. is it possible to use Zoom events?)
  
-- Training:
+- Training (Teresia):
 
   At the last workshop a preliminary list of required training was put together. How do we proceed with this?
 
-- Date for next community zoom meeting:
+- Date for next community zoom meeting (Teresia):
 
   Suggested date: Thursday 4 September 2025
 
