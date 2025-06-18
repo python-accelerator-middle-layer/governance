@@ -2,7 +2,7 @@ Agenda:
 
 - Approve minutes from last meeting
 
-- Report from maintainers (TBD):
+- Report from maintainers (Jean-Luc):
 
   Role and working group descriptions. What are their plans to do next.
 
