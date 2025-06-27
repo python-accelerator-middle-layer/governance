@@ -17,6 +17,9 @@
 <ul>
 <li>Martin will open a GitHub discussion around python coding guidelines</li>
 </ul>
+<ul>
+<li>Follwing Alexis remark, Vadim opened a GitHub dicsussion to choose the docstring format</li>
+</ul>
 
 ## MetaConfigurator
 
