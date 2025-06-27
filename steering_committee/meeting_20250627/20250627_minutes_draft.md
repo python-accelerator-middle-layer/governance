@@ -42,11 +42,11 @@ Agenda:
 - The action list that was agreed upon in the last meeting of the group still needs to be delivered. Teresia will remind them. 
 	
 
-**Relation between pyAML and Accelerator Toolbox (Simone):**
-	- there are features in pyAT that might be needed in the core
-	- It was decided that:
+**Relation between pyAML and Accelerator Toolbox (Simone):**  
+- there are features in pyAT that might be needed in the core
+- It was decided that:
 	- pyAT will become a requirement for pyAML.
-	- Inititally, no abstraction of the simulation engine should be done. Only pyAT should be used. 
+	- Inititally, no abstraction of the simulation engine should be done. Only pyAT should be used.
 	- The abstraction can be added at a later point. It is important to consider that people should not need a pyAT lattice for the abstraction. 
 	
 	
