@@ -1,4 +1,5 @@
 **Participants**
+
 Teresia Olsson – HZB (Chair)  
 Patrick Madela - Synchrotron SOLEIL (Deputy)   
 Markus Ries – HZB (Deputy)  
@@ -14,7 +15,7 @@ Simon White - ESRF
 Ilya Agapov – DESY
 
 
-Agenda:
+**Agenda:**
 <ol>
 	<li>Approve minutes from last meeting</li>  
 	<li>Election of maintainer: Marco Apollonio</li>  
@@ -33,16 +34,16 @@ Agenda:
 **1. Approve minutes from last meeting**  
 - approved with no notes
 
-**Election of maintainer: Marco Apollonio**   
+**2. Election of maintainer: Marco Apollonio**   
 - approved with no notes 
 	
-**Report from maintainers (Teresia):**   
+**3. Report from maintainers (Teresia):**   
 - The roles and responsibilites of the positions Coordinator, WG Core, WG Testing and Secretary has not been fully agreed on.
 - Markus Ries will support the group in mapping out the organizational structure during the setup phase.
 - The action list that was agreed upon in the last meeting of the group still needs to be delivered. Teresia will remind them. 
 	
 
-**Relation between pyAML and Accelerator Toolbox (Simone):**  
+**4. Relation between pyAML and Accelerator Toolbox (Simone):**  
 - there are features in pyAT that might be needed in the core
 - It was decided that:
 	- pyAT will become a requirement for pyAML.
@@ -50,14 +51,14 @@ Agenda:
 	- The abstraction can be added at a later point. It is important to consider that people should not need a pyAT lattice for the abstraction. 
 	
 	
-**Approval process for specification (Teresia):**
+**5. Approval process for specification (Teresia):**
 - Pocess for approving the specification documents. 
 	- document should evolve with the code according to needs as a "living document"
 	- Latest state should be sent out for feedback before the next workshop, where it will be presented within the milestone and as a core information source going forwards. 
 	- An FAQ on the Git-Webpage can link to the documents
 		
 	
-**Next workshop at SOLEIL (Laurent will talk to Vadim and make a proposal):**
+**6. Next workshop at SOLEIL (Laurent will talk to Vadim and make a proposal):**
 - Date: Feb 2026. Save the Date should be sent as fast as possible
 - Timeframe - 2 work days of program into 3 days, or different format?
 - Content:
@@ -71,16 +72,16 @@ Agenda:
   	- Scientific Committe should be set up before the meeting - should it be the Steering Committee? 
 		
 		
-**Training (Teresia):**
+**7. Training (Teresia):**
 At the last workshop a preliminary list of required training was put together. How do we proceed with this?
-	• Control System: Teresia to arrange it for the next community zoom meeting. 
-	• pyAT: online training? - Simone to prepare it for the afternoon last day of the workshop in a hybrid format, for our people and interested external people.
+	- Control System: Teresia to arrange it for the next community zoom meeting. 
+ 	- pyAT: online training? - Simone to prepare it for the afternoon last day of the workshop in a hybrid format, for our people and interested external people.
 	
 	
-**Date for next community zoom meeting (Teresia):**
+**8. Date for next community zoom meeting (Teresia):**
 Suggested date: Thursday 4 September 2025
 	• No objections
 	
-**Next meeting time:**
+**9. Next meeting time:**
 Next meeting is planned to 18 July 2025 11.00-12.00 CEST.
 	• No objections 
