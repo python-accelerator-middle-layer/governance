@@ -30,15 +30,16 @@ Agenda:
 
 
 
-**1. Approve minutes from last meeting** 
-*approved with no notes 
+**1. Approve minutes from last meeting**  
+- approved with no notes 
 
-**Election of maintainer: Marco Apollonio**
-*approved with no notes 
+**Election of maintainer: Marco Apollonio**   
+- approved with no notes 
 	
-**Report from maintainers (Teresia):**
-	• The roles and responsibilites of the positions Coordinator, WG Core, WG Testing and Secretary has not been fully agreed on. Markus Ries will support the group in mapping out the organizational structure during the setup phase. 
-	• The action list that was agreed upon in the last meeting of the group still needs to be delivered. Teresia will remind them. 
+**Report from maintainers (Teresia):**   
+- The roles and responsibilites of the positions Coordinator, WG Core, WG Testing and Secretary has not been fully agreed on.
+- Markus Ries will support the group in mapping out the organizational structure during the setup phase.
+- The action list that was agreed upon in the last meeting of the group still needs to be delivered. Teresia will remind them. 
 	
 
 **Relation between pyAML and Accelerator Toolbox (Simone):**
