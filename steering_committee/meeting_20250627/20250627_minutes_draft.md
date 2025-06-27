@@ -62,14 +62,14 @@ Ilya Agapov – DESY
 - Date: Feb 2026. Save the Date should be sent as fast as possible
 - Timeframe - 2 work days of program into 3 days, or different format?
 - Content:
-	- Present use case,
+		- Present use case,
  		- Prototype
  		- Status of the documents,
 		 - Working groups for hackathon.
 		 - In-person meeting of the steering committee.
-	 - Options for hybrid participation - Zoom with breaktout rooms?
- 	- Funding - no COST funding this time. Funding from LEAPS or participation fees might be considered,
-  	- Scientific Committe should be set up before the meeting - should it be the Steering Committee? 
+- Options for hybrid participation - Zoom with breaktout rooms?
+- Funding - no COST funding this time. Funding from LEAPS or participation fees might be considered,
+- Scientific Committe should be set up before the meeting - should it be the Steering Committee? 
 		
 		
 **7. Training (Teresia):**
