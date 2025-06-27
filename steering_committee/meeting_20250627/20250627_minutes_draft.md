@@ -31,10 +31,10 @@ Agenda:
 
 
 **1. Approve minutes from last meeting** 
-	-  approved with no notes 
+*approved with no notes 
 
 **Election of maintainer: Marco Apollonio**
-	• approved with no notes 
+*approved with no notes 
 	
 **Report from maintainers (Teresia):**
 	• The roles and responsibilites of the positions Coordinator, WG Core, WG Testing and Secretary has not been fully agreed on. Markus Ries will support the group in mapping out the organizational structure during the setup phase. 
