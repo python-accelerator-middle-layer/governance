@@ -25,7 +25,7 @@ Agenda:
 	<li> Training (Teresia)<li>
 	<li>Date for next community zoom meeting (Teresia)<li>
 	<li>Next meeting time<li>
-
+</ol> 
 
 
 
