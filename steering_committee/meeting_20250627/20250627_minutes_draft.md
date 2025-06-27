@@ -62,26 +62,26 @@ Ilya Agapov – DESY
 - Date: Feb 2026. Save the Date should be sent as fast as possible
 - Timeframe - 2 work days of program into 3 days, or different format?
 - Content:  
-		- Present use case,  
- 		- Prototype  
- 		- Status of the documents,  
-		 - Working groups for hackathon.  
-		 - In-person meeting of the steering committee.  
+	- Present use case,  
+	- Prototype  
+	- Status of the documents,  
+	- Working groups for hackathon.  
+	- In-person meeting of the steering committee.  
 - Options for hybrid participation - Zoom with breaktout rooms?
 - Funding - no COST funding this time. Funding from LEAPS or participation fees might be considered,
 - Scientific Committe should be set up before the meeting - should it be the Steering Committee? 
 		
 		
 **7. Training (Teresia):**
-At the last workshop a preliminary list of required training was put together. How do we proceed with this?  
-	- Control System: Teresia to arrange it for the next community zoom meeting.   
- 	- pyAT: online training? - Simone to prepare it for the afternoon last day of the workshop in a hybrid format, for our people and interested external people.  
+At the last workshop a preliminary list of required training was put together. How do we proceed with this?   
+- Control System: Teresia to arrange it for the next community zoom meeting.
+- pyAT: online training? - Simone to prepare it for the afternoon last day of the workshop in a hybrid format, for our people and interested external people.  
 	
 	
 **8. Date for next community zoom meeting (Teresia):**  
-Suggested date: Thursday 4 September 2025  
-	- No objections  
+Suggested date: Thursday 4 September 2025   
+- No objections  
 	
 **9. Next meeting time:**  
-Next meeting is planned to 18 July 2025 11.00-12.00 CEST.  
-	- No objections   
+Next meeting is planned to 18 July 2025 11.00-12.00 CEST.   
+- No objections   
