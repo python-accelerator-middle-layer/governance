@@ -15,17 +15,17 @@ Ilya Agapov – DESY
 
 
 Agenda:
-<ol>
-	<li>Approve minutes from last meeting</li>
-	<li>Election of maintainer: Marco Apollonio</li>
-	<li>Report from maintainers (Teresia)</li> 
-	<li>Relation between pyAML and Accelerator toolbox (Simon)</li>
-	<li> Approval process for specification (Teresia)</li>
-	<li>Next workshop at SOLEIL (Laurent & Teresia)</li> 
-	<li> Training (Teresia)</li>
-	<li>Date for next community zoom meeting (Teresia)</li>
-	<li>Next meeting time</li>
-</ol> 
+
+	Approve minutes from last meeting
+	Election of maintainer: Marco Apollonio
+	Report from maintainers (Teresia)
+	Relation between pyAML and Accelerator toolbox (Simon)
+	Approval process for specification (Teresia)
+	Next workshop at SOLEIL (Laurent & Teresia)
+	Training (Teresia)
+	Date for next community zoom meeting (Teresia)
+	Next meeting time
+
 
 
 
