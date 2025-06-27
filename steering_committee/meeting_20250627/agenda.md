@@ -2,7 +2,7 @@ Agenda:
 
 - Approve minutes from last meeting
 
-- Report from maintainers (Jean-Luc):
+- Report from maintainers (Teresia):
 
   Role and working group descriptions. What are their plans to do next.
 
