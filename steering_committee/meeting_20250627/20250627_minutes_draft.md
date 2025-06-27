@@ -31,7 +31,7 @@ Agenda:
 
 
 **1. Approve minutes from last meeting**  
-- approved with no notes 
+- approved with no notes
 
 **Election of maintainer: Marco Apollonio**   
 - approved with no notes 
