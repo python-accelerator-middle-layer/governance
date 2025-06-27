@@ -1,15 +1,15 @@
 **Participants**
 Teresia Olsson – HZB (Chair)
-Ronja Grünke – HZB (Notes)
+Patrick Madela - Synchrotron SOLEIL (Deputy) 
+Markus Ries – HZB (Deputy)
+Konstantinos Paraschou - DESY (Deputy)
+Stephen Molloy - MAX IV (Deputy) 
 Simone Maria Liuzzo
 Marco Apollonio – MAX IV 
-Markus Ries – HZB (Deputy)
-Patrick Madela - Synchrotron SOLEIL (Deputy) 
-Konstantinos Paraschou - DESY (Deputy)
 Laurent Nadolski - Synchrotron SOLEIL
-Stephen Molloy - MAX IV (Deputy) 
+Ronja Grünke – HZB (Notes)
 
-**Not available:**
+Not available:
 Simon White - ESRF
 Ilya Agapov – DESY
 
