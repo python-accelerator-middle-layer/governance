@@ -73,15 +73,15 @@ Ilya Agapov – DESY
 		
 		
 **7. Training (Teresia):**
-At the last workshop a preliminary list of required training was put together. How do we proceed with this?
-	- Control System: Teresia to arrange it for the next community zoom meeting. 
- 	- pyAT: online training? - Simone to prepare it for the afternoon last day of the workshop in a hybrid format, for our people and interested external people.
+At the last workshop a preliminary list of required training was put together. How do we proceed with this?  
+	- Control System: Teresia to arrange it for the next community zoom meeting.   
+ 	- pyAT: online training? - Simone to prepare it for the afternoon last day of the workshop in a hybrid format, for our people and interested external people.  
 	
 	
-**8. Date for next community zoom meeting (Teresia):**
-Suggested date: Thursday 4 September 2025
-	• No objections
+**8. Date for next community zoom meeting (Teresia):**  
+Suggested date: Thursday 4 September 2025  
+	- No objections  
 	
-**9. Next meeting time:**
-Next meeting is planned to 18 July 2025 11.00-12.00 CEST.
-	• No objections 
+**9. Next meeting time:**  
+Next meeting is planned to 18 July 2025 11.00-12.00 CEST.  
+	- No objections   
