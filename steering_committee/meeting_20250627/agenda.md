@@ -2,6 +2,9 @@ Agenda:
 
 - Approve minutes from last meeting
 
+- Election of maintainer:
+  Marco Apollonio
+
 - Report from maintainers (Teresia):
 
   Role and working group descriptions. What are their plans to do next.
