@@ -1,13 +1,13 @@
 **Participants**
-Teresia Olsson – HZB (Chair)
-Patrick Madela - Synchrotron SOLEIL (Deputy) 
-Markus Ries – HZB (Deputy)
-Konstantinos Paraschou - DESY (Deputy)
-Stephen Molloy - MAX IV (Deputy) 
-Simone Maria Liuzzo
-Marco Apollonio – MAX IV 
-Laurent Nadolski - Synchrotron SOLEIL
-Ronja Grünke – HZB (Notes)
+Teresia Olsson – HZB (Chair)  
+Patrick Madela - Synchrotron SOLEIL (Deputy)   
+Markus Ries – HZB (Deputy)  
+Konstantinos Paraschou - DESY (Deputy)  
+Stephen Molloy - MAX IV (Deputy)   
+Simone Maria Liuzzo  
+Marco Apollonio – MAX IV   
+Laurent Nadolski - Synchrotron SOLEIL  
+Ronja Grünke – HZB (Minutes)  
 
 Not available:
 Simon White - ESRF
@@ -58,17 +58,17 @@ Agenda:
 		
 	
 **Next workshop at SOLEIL (Laurent will talk to Vadim and make a proposal):**
-		○ Dates - Feb 2026. Save the Date should be sent as fast as possible
-		○ Timeframe - 2 work days of program into 3 days, or different format? 
-		○ Content:
-			§ Present use case, 
-			§ Prototype
-			§ Status of the documents, 
-			§ Working groups for hackathon. 
-			§ In-person meeting of the steering committee. 
-		○ Options for hybrid participation - Zoom with breaktout rooms? 
-		○ Funding - no COST funding this time. Funding from LEAPS or participation fees might be considered,
-		○ Scientific Committe should be set up before the meeting - should it be the Steering Committee? 
+- Date: Feb 2026. Save the Date should be sent as fast as possible
+- Timeframe - 2 work days of program into 3 days, or different format?
+- Content:
+	- Present use case,
+ 		- Prototype
+ 		- Status of the documents,
+		 - Working groups for hackathon.
+		 - In-person meeting of the steering committee.
+	 - Options for hybrid participation - Zoom with breaktout rooms?
+ 	- Funding - no COST funding this time. Funding from LEAPS or participation fees might be considered,
+  	- Scientific Committe should be set up before the meeting - should it be the Steering Committee? 
 		
 		
 **Training (Teresia):**
