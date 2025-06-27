@@ -15,9 +15,9 @@ Ilya Agapov – DESY
 
 
 Agenda:
-
-	Approve minutes from last meeting
-	Election of maintainer: Marco Apollonio
+<ol>
+	<li>Approve minutes from last meeting</li>  
+	<li>Election of maintainer: Marco Apollonio</li>  
 	Report from maintainers (Teresia)
 	Relation between pyAML and Accelerator toolbox (Simon)
 	Approval process for specification (Teresia)
