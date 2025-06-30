@@ -52,26 +52,27 @@ Ilya Agapov – DESY
 	
 	
 **5. Approval process for specification (Teresia):**
-- Pocess for approving the specification documents. 
-	- document should evolve with the code according to needs as a "living document"
-	- Latest state should be sent out for feedback before the next workshop, where it will be presented within the milestone and as a core information source going forwards. 
-	- An FAQ on the Git-Webpage can link to the documents
+- Process for approving the specification documents. It was decided that:
+	- Documents should evolve with the code during the prototype process as "living documents".
+	- The latest state should be sent out for feedback to the community before the next workshop. At the workshop it will be presented as a core information source going forwards together with milestones. 
+	- An FAQ on the webpage can be used to link to the documents and get more people to read them.
 		
 	
-**6. Next workshop at SOLEIL (Laurent will talk to Vadim and make a proposal):**
-- Date: Feb 2026. Save the Date should be sent as fast as possible
-- Timeframe - 2 work days of program into 3 days, or different format?
+**6. Next workshop at SOLEIL (Laurent & Teresia):**
+It was decided that Laurent will talk to Vadim and put together a proposal. Things to consider are:
+- Date: Feb 2026. Save the Date should be sent as fast as possible.
+- Timeframe - 2 or 3 days, potentially part of the last day could be training for those who are interested as on the AT workshop at ESRF.
 - Content:  
-	- Present use case,  
-	- Prototype  
-	- Status of the documents,  
-	- Working groups for hackathon.  
-	- In-person meeting of the steering committee.  
-- Options for hybrid participation - Zoom with breaktout rooms?
-- Funding - no COST funding this time. Funding from LEAPS or participation fees might be considered,
-- Scientific Committe should be set up before the meeting - should it be the Steering Committee? 
-		
-		
+	- Status of the prototype
+	- Status of the specification documents  
+	- Hackathon
+	- In-person meeting of the steering committee
+	- Training? (see next point in the minutes)  
+- Options for hybrid participation - Zoom with breakout rooms or Zoom events? This depends on what the content should be.
+- Funding - We got no funding from COST. Previously we got funding from LEAPS but the administration was not completely easy. Other option to consider is participation fees.
+- A scientific committe should be set up before the meeting - this can be the steering committee if it makes the administration easier.
+ 
+
 **7. Training (Teresia):**
 At the last workshop a preliminary list of required training was put together. How do we proceed with this?   
 - Control System: Teresia to arrange it for the next community zoom meeting.
