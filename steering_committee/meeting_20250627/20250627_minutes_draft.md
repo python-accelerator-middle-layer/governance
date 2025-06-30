@@ -74,9 +74,9 @@ It was decided that Laurent will talk to Vadim and put together a proposal. Thin
  
 
 **7. Training (Teresia):**
-At the last workshop a preliminary list of required training was put together. How do we proceed with this?   
-- Control System: Teresia to arrange it for the next community zoom meeting.
-- pyAT: online training? - Simone to prepare it for the afternoon last day of the workshop in a hybrid format, for our people and interested external people.  
+At the last workshop a preliminary list of required training was put together. A discussion has also been started on Github. It was decided to start with two trainings:   
+- Control system: Teresia will arrange this for the next community zoom meeting. It should cover the three control systems currently used in our community: TANGO, EPICS and DOOCS.
+- pyAT: Simone said this training already exist and is ready to go. It can be arranged as on the AT workshop at ESRF on the last afternoon of the workshop. It should then be done in a hybrid format. Teresia suggested that it can also be done fully online depending on what works best with the workshop schedule. Laurent will talk to Vadim about this.
 	
 	
 **8. Date for next community zoom meeting (Teresia):**  
