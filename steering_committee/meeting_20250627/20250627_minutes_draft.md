@@ -71,12 +71,12 @@ It was decided that Laurent will talk to Vadim and put together a proposal. Thin
 - Options for hybrid participation - Zoom with breakout rooms or Zoom events? This depends on what the content should be.
 - Funding - We got no funding from COST. Previously we got funding from LEAPS but the administration was not completely easy. Other option to consider is participation fees.
 - A scientific committe should be set up before the meeting - this can be the steering committee if it makes the administration easier.
- 
+- For next SC meeting: Laurent propose an agenda and organization for the workshop. A workshop fee will likely happen. Workshop date options will be discussed.
 
 **7. Training (Teresia):**
 At the last workshop a preliminary list of required training was put together. A discussion has also been started on Github. It was decided to start with two trainings:   
 - Control system: Teresia will arrange this for the next community zoom meeting. It should cover the three control systems currently used in our community: TANGO, EPICS and DOOCS.
-- pyAT: Simone said this training already exist and is ready to go. It can be arranged as on the AT workshop at ESRF on the last afternoon of the workshop. It should then be done in a hybrid format. Teresia suggested that it can also be done fully online depending on what works best with the workshop schedule. Laurent will talk to Vadim about this.
+- pyAT: Simone said this training already exists and is ready to go. It can be arranged as on the AT workshop at ESRF on the last afternoon of the workshop. It should then be done in a hybrid format. Teresia suggested that it can also be done fully online depending on what works best with the workshop schedule. Laurent will talk to Vadim about this.
 	
 	
 **8. Date for next community zoom meeting (Teresia):**  
