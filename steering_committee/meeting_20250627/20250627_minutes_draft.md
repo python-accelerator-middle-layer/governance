@@ -32,10 +32,10 @@ Ilya Agapov – DESY
 
 
 **1. Approve minutes from last meeting**  
-- approved with no notes
+- Approved with no notes
 
 **2. Election of maintainer: Marco Apollonio**   
-- approved with no notes 
+- Approved with no notes 
 	
 **3. Report from maintainers (Teresia):**   
 - The roles and responsibilites of the positions Coordinator, WG Core, WG Testing and Secretary has not been fully agreed on.
