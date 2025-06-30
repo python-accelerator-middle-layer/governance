@@ -10,8 +10,8 @@ Marco Apollonio – MAX IV
 Laurent Nadolski – Synchrotron SOLEIL  
 Ronja Grünke – HZB (Minutes)  
 
-Not available:
-Simon White – ESRF
+Not available:  
+Simon White – ESRF  
 Ilya Agapov – DESY
 
 
