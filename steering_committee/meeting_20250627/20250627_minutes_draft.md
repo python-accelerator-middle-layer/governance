@@ -20,7 +20,7 @@ Ilya Agapov – DESY
 	<li>Approve minutes from last meeting</li>  
 	<li>Election of maintainer: Marco Apollonio</li>  
 	<li>Report from maintainers (Teresia)</li>    
-	<li>Relation between pyAML and Accelerator toolbox (Simon)</li>   
+	<li>Relation between pyAML and Accelerator toolbox (Simone)</li>   
 	<li>Approval process for specification (Teresia)</li> 
 	<li>Next workshop at SOLEIL (Laurent & Teresia)</li> 
 	<li>Training (Teresia)</li> 
