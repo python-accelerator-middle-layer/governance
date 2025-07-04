@@ -15,7 +15,7 @@ This is optional and not mandatory
 
 ## Code documentation
 
-*Docstring is decided to be in numpy format*
+* Docstring is decided to be in numpy format*
 
 ## GitHub/CI-CD discussion
 
