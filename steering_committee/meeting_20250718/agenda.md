@@ -2,6 +2,8 @@ Agenda:
 
 - Approve minutes from last meeting
 
+- Election of maintainer: Alexandre Moutardier
+
 - Report from maintainers (TBD)
 
 - Visibility of meeting minutes (Laurent)
