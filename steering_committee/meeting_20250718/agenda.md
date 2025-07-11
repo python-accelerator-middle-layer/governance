@@ -4,11 +4,11 @@ Agenda:
 
 - Election of maintainer: Alexandre Moutardier
 
-- Report from maintainers (Teresia)
-
 - Visibility of meeting minutes (Laurent)
 
 - Invitations to steering committee meetings (Teresia)
+
+- Report from maintainers (Teresia)
 
 - Bluesky workshop @ DESY in November (Teresia):
 
