@@ -2,7 +2,7 @@ Agenda:
 
 - Approve minutes from last meeting
 
-- Election of maintainer: Alexandre Moutardier
+- Election of maintainer: Alexandre Moutardier (operation group, SOLEIL)
 
 - Visibility of meeting minutes (Laurent)
 
@@ -22,6 +22,8 @@ Agenda:
   - For the labs who want Bluesky compatibility that should work seamlessly for the users.
   - We still want applications that are sharable between labs despite this.
 
+- Proposal (format, agenda, etc.) for the pyAML workshop at SOLEIL in February 2026 (Laurent).
+  
 - Next meeting time:
 
   Next meeting is planned to 15 August 2025 11.00-12.00 CEST.
