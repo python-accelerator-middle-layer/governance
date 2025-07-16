@@ -4,11 +4,13 @@ Agenda:
 
 - Election of maintainer: Alexandre Moutardier (operation group, SOLEIL)
 
+- Maintainer conflict (Simon)
+
+- Lack of project management (Teresia)
+
 - Visibility of meeting minutes (Laurent)
 
 - Invitations to steering committee meetings (Teresia)
-
-- Report from maintainers (Teresia)
 
 - Bluesky workshop @ DESY in November (Teresia):
 
