@@ -1,0 +1,35 @@
+# pyAML meeting notes (2025-07-18)
+
+- Jean-Luc suggest to follow a to-do list for his proposal or to discuss the architecture
+- Jean-Luc expresses his concerns with the architecture suggested by BESSY
+	- Bluesky and OPHYD dependencies are not acceptable
+- Teresia notes that it would be good to proceed with Jean-Luc's todo list; Jean-Luc says that todo-list is architecture specific
+- Jean-Luc works on restructuring his code
+	- Jean-Luc notes that sr.model.blabla notation is not good (specification document) and should be changed. Some suggestions were made orally
+- Martin G. asks for clarification about the steering committee decisions
+- Martin G. thinks that this is an opportunity to evaluate the design decisions.
+- Martin G. shares his impressions, we are loosing the flexibility and it looks like we are working towards v1.0 and not exploring enough options. 
+- There's a discussion on how simple is a tune correction example and how agile should our approach be.
+- An example of tune correction for ESRF lattice (doesn't have a virtual-accelerator) (we can add MLS lattice or BESSY II lattice, ESRF-EBS) will be done as a very first example **but this was not communicated properly**. 
+- The plan of Jean-Luc is to finish simplest tune correction (model only) by the end of July -> and then to try to test it with BESSY virtual accelerator
+- Martin G. wants to focus on particular decisions about the architecture and functionality to have answered: 
+	- for example, he could setup a simple feedback system to just explore the possibilities
+	- in his view, he sees the prototype as something to be thrown out as garbage
+- Jean-Luc already identified that, for example, magnet mapping is not done in a good manner at the moment and will have to change
+- Hardware/physics units switch/translation discussion (on the needs of different facilities: ESRF will not work in currents; BESSY/SOLEIL may not work in strength)
+- Vadim notes that example of Waheed was too complex and had too many functionalities implemented at the same time
+- Martin G. notes that in particular, configuration management went into too much detail and tried to suit to many needs
+- Waheed remarks that coordinators meeting minutes are complete and were made public (and shared to the steering committee)
+- Waheed clarifies the maintainers conflict was due to a misunderstanding on having a competition for architecture for implementation;
+- For next maintainers meeting both architectures should be presented with advantages and disadvantages. 
+- Martin G. notes that in his view we don't have to converge.
+- Jean-Luc and Waheed discuss dependency injection design pattern.
+- Yoshi suggests to make two teams to work on two proposals.
+- Guillaume notes that both architectures could be merged.
+- Martin G. notes that the two teams must not be Software engineers vs physicists, Vadim and Teresia agree.
+- Guillaume wants to understand that the two solutions should respond to the two architectures. 
+- Guillaume proposes to write a test case and to quickly converge to test cases.
+- Teresia suggests to make a template for a particular functionality.
+- Waheed notes that there should be a bigger picture. Guillaume disagrees with this and thinks that we can converge on a larger picture later. 
+- Guillaume suggests to make a small use cases and make suggestions on them.
+- Next week: discussion of the two proposed big pictures on the architectures (if the coordinators will converge on that)
