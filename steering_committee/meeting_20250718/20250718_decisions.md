@@ -1,17 +1,17 @@
 **Participants**
 
-Ilya Agapov – DESY
-Konstantinos Paraschou - DESY (Deputy)
-Marco Apollonio – MAX IV
-Markus Ries – HZB (Deputy)
-Patrick Madela - Synchrotron SOLEIL (Deputy)
-Ronja Grünke – HZB (Notes)
-Simon White - ESRF
-Teresia Olsson – HZB (Chair)
-Laurent Nadolski - Synchrotron SOLEIL
+Ilya Agapov – DESY  
+Konstantinos Paraschou - DESY (Deputy)  
+Marco Apollonio – MAX IV  
+Markus Ries – HZB (Deputy)  
+Patrick Madela - Synchrotron SOLEIL (Deputy)  
+Ronja Grünke – HZB (Notes)  
+Simon White - ESRF  
+Teresia Olsson – HZB (Chair)  
+Laurent Nadolski - Synchrotron SOLEIL  
 
 Not available:  
-Simone Maria Liuzzo -ESRF
+Simone Maria Liuzzo -ESRF  
 Stephen Molloy - MAX IV (Deputy)
 
 
