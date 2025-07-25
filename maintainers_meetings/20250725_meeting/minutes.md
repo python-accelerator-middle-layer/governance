@@ -20,7 +20,7 @@ Ronja Grünke (minutes)
          - Project by Jean-Luc
          - Project by Waheed
      - Teresia and Vadim will create milestones and add them based on the information shared.
-    - A training on how to write tests will be organized via SOLEIL (Vadim) 
+    - A training on how to write tests with pytest may be organized (Vadim will check if there is anyone on the side of SOLEIL who has the will and the time to do it) 
 
 2. Details of Jean-Luc’s proposal
     - The factual discussion will be continued after the presentation has been pushed on GitHub.
