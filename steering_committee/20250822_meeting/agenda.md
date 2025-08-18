@@ -19,6 +19,10 @@ Agenda:
   - Implementation needs to be independent of Bluesky so no lab is forced to use it.
   - For the labs who want Bluesky compatibility that should work seamlessly for the users.
   - We still want applications that are sharable between labs despite this.
+ 
+- Info about HIFIS services (Teresia)
+
+- Agenda for meeting together with coordinators (Teresia)
 
 - Next meeting time:
 
