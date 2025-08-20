@@ -24,6 +24,8 @@ Agenda:
 
 - Agenda for meeting together with coordinators (Teresia)
 
+- Agenda for community meeting 4 September (Teresia)
+
 - Next meeting time:
 
   Next meeting is planned to 12 September 2025 11.00-12.00 CEST.
