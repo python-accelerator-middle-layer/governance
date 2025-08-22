@@ -1,8 +1,6 @@
 Agenda:
 
-- Report from the maintainers about the prototype (20 min)
-
-- Status of specification (10 min)
+- Information from the steering committee (15 min)
 
 - Training: control systems (60 min)
 
