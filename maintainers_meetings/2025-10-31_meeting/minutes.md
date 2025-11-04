@@ -35,7 +35,7 @@
     Y. Hidaka replied that he will try to do it. 
     **V. Gubaidulin underlined that he and G. Pichon will be available if there are any questions.**
     **T. Olsson and W. Sulaimankhail in three weeks will test accml-repository with MAX IV using HZB digital twin (TANGO version)**
-    **T. Olsson will present pyAML project at ROCK-IT meeting in Hamburg next week (November 3 --)
+    **T. Olsson will present pyAML project at ROCK-IT meeting in Hamburg next week (November 3 --)**
     **T. Olsson will look for an ophyd-async expert to present it either at a maintainers meeting or at a community meeting.**
     **T. Olsson open a GitHub discussion on ophyd-async. Examples were added there by W. Sulaimankhail and T. Olsson.**
 
