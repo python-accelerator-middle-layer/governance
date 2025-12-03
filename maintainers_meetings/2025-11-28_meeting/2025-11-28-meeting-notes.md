@@ -2,18 +2,18 @@
 
 **Date:** November 28, 2025  
 **Time:** 15:00 (CEST)  
-**Participants**: Jean-Luc Pons (ESRF), Simone Maria Liuzzo (ESRF), Teresia Olsson (HZB), Waheed Sulaiman Khail (HZB),
-                  Vadim Gubaidulin (SOLEIL), Alexis Gamelin (SOLEIL), Alexandre Moutardier (SOLEIL), Yoshiteru Hidaka (BNL),
-                  Konstantinos Paraschou (DESY), Devin Burke (DESY, invited), Ali ? (MAX IV?) 
+**Participants**: Jean-Luc Pons (ESRF), Simone Maria Liuzzo (ESRF), Teresia Olsson (HZB), Waheed Sulaiman Khail (HZB), Vadim Gubaidulin (SOLEIL), Alexis Gamelin (SOLEIL), Alexandre Moutardier (SOLEIL), Yoshiteru Hidaka (BNL), Konstantinos Paraschou (DESY), Devin Burke (DESY, invited), Ali ? (MAX IV?) 
 ---
 
-**SML presenting documentation and examples**
+### SML presenting documentation and examples
+
 - SML have made the initial set up for the documention in readthedocs
 - SML shared information on the available example notebooks and on how to create new ones
 
-**Devin started discussion on ophyd-async**
+### Devin started discussion on ophyd-async
+
 JLP asked and listed many of the points that concern him: Device factory, polling, quality-parameter, async-backend of TANGO chosen for ophyd-async implementation,..
-	- DB: There are some factory methods but DB couldn't find them on the fly but they are not intended for writing control system agnostic devices -> for this check fastCS
+- DB: There are some factory methods but DB couldn't find them on the fly but they are not intended for writing control system agnostic devices -> for this check fastCS
 	- JLP asked some clarification questions on polling
 		- DB: it is polling of ophyd that was shown not tango polling
 		- DB: Ophyd does not override some tango functionality and TANGO is still the authority on polling
