@@ -1,6 +1,6 @@
 ## Agenda pyAML maintainers' meeting
 
-**Date:** October 31, 2025  
+**Date:** November 28, 2025  
 **Time:** 15:00 (CEST)  
 
 ---
