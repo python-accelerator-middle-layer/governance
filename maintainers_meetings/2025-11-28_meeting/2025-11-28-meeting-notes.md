@@ -1,8 +1,9 @@
  ## pyAML maintainers' meeting notes
-
+ 
 **Date:** November 28, 2025  
 **Time:** 15:00 (CEST)  
 **Participants**: Jean-Luc Pons (ESRF), Simone Maria Liuzzo (ESRF), Teresia Olsson (HZB), Waheed Sulaiman Khail (HZB), Vadim Gubaidulin (SOLEIL), Alexis Gamelin (SOLEIL), Alexandre Moutardier (SOLEIL), Yoshiteru Hidaka (BNL), Konstantinos Paraschou (DESY), Devin Burke (DESY, invited), Ali ? (MAX IV?) 
+
 ---
 
 ### SML presenting documentation and examples
