@@ -7,4 +7,4 @@
 
 1. fast-cs, [ (invited) Tom Cobb, Diamond] (20' + 10')
 2. pyAML test at ESRF-EBS (obrit correction), [Jean-Luc Pons / Simone Maria Liuzzo, ESRF; Konstantinos Paraschou, DESY] (15' + 5')
-3. (TBC) pyAML test at SOLEIL (chromaticity measurement), [Alexandre Moutardier, SOLEIL] (5' + 5')
+3. pyAML test at SOLEIL (chromaticity measurement), [Alexandre Moutardier, SOLEIL] (5' + 5')
