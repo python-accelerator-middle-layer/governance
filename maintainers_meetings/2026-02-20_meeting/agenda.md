@@ -13,10 +13,10 @@
     - Questions / Discussion
 - Roadmap discussion (10' @Teresia Olsson)
 - Workload distribution (10') -> We should identify who is doing what
- - Configuration improvement -> Device catalogue (G. Pichon)
- - Digital twin (W. Sulaiman Khail)
- - PySC (K. Paraschou)
- - Chromaticity adjustment tool (J.-L. Pons or A. Moutardier)
- - Examples (V. Gubaidulin ?)
- - We should find a person from each workshop working group who should try to go through their group feedback and make GitHub issues from it.
- - ???
+   - Configuration improvement -> Device catalogue (G. Pichon)
+   - Digital twin (W. Sulaiman Khail)
+   - PySC (K. Paraschou)
+   - Chromaticity adjustment tool (J.-L. Pons or A. Moutardier)
+   - Examples (V. Gubaidulin ?)
+   - We should find a person from each workshop working group who should try to go through their group feedback and make GitHub issues from it.
+   - ???
