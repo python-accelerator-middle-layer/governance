@@ -1,6 +1,6 @@
 ## Agenda pyAML maintainers' meeting
 
-**Date:** February 20, 2026  
+**Date:** March 06, 2026  
 **Time:** 15:00 (CEST)  
 
 ---
