@@ -18,8 +18,11 @@ forgot to attach __manually__ created orbit correction object to sr.live). No ma
 -
 
 ##### Roadmap
-- Release in the end of April. Which issues to close before that?
+- Release at the end of April. Which issues should be closed before that?
 -
+
+Snapshot of foreseen SOLEIL contributions in the roadmap
+<img width="1239" height="703" alt="image" src="https://github.com/user-attachments/assets/ef09da0d-2140-484a-b08f-af57b6e65a76" />
 
 ##### Future hackathon
 -
