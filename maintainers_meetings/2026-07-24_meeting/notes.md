@@ -8,6 +8,7 @@ Teresia Olsson (HZB)
 Jean-Luc Pons (ESRF)  
 Alexis Gamelin (SOLEIL)  
 Alexandre Moutardier (SOLEIL)  
+Guillaume Pichon (SOLEIL)
 
 ### Discussion:
 
