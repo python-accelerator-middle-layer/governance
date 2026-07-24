@@ -5,9 +5,9 @@
 ### Present:
 
 Teresia Olsson (HZB)  
-Jean-Luc Pons (ESRF)
-Alexis Gamelin (SOLEIL)
-Alexandre Moutardier (SOLEIL)
+Jean-Luc Pons (ESRF)  
+Alexis Gamelin (SOLEIL)  
+Alexandre Moutardier (SOLEIL)  
 
 ### Discussion:
 
